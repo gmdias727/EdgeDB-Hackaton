@@ -1,0 +1,8 @@
+.env
+
+go.sum
+
+edgedb.toml
+
+dbschema
+dbschema/*

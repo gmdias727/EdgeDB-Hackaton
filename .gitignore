@@ -6,3 +6,7 @@ edgedb.toml
 
 dbschema
 dbschema/*
+
+tmp
+tmp/*
+.air.toml
